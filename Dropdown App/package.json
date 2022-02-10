@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.158",
     "lodash": "^4.17.19",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-dropdown": "^1.7.0",
